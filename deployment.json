@@ -1,0 +1,14 @@
+{
+  "app": "ZCC Simulator",
+  "version": "1.0",
+  "policies": [
+    {
+      "name": "internet_access",
+      "status": "enabled"
+    },
+    {
+      "name": "vpn_required",
+      "status": "disabled"
+    }
+  ]
+}
