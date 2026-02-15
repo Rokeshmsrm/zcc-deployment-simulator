@@ -9,7 +9,8 @@
     {
       "name": "vpn_required",
       "status": "enabled",
-      "vpn_required": "enabled"
+      "vpn_required": "enabled",
+      "new_policy" : "allowed"
 
     }
   ]
