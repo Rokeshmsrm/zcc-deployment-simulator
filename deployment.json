@@ -8,7 +8,7 @@
     },
     {
       "name": "vpn_required",
-      "status": "disabled"
+      "status": "enabled"
     }
   ]
 }
